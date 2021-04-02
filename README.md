@@ -1,4 +1,5 @@
 #Redirect Pentaho
+
 ##Como usar
 Alterar o arquivo <diretoriodoseupentaho>/tomcat/webapps/pentaho/index.jsp
 
